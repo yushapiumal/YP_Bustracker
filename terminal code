@@ -1,0 +1,3 @@
+npm init
+project name
+npm install express mongoose body-parser
